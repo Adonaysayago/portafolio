@@ -104,7 +104,7 @@ html{
 
 .home{
     display: flex;
-    background: url("/Portafolio-HTML-CSS-JS-master/asseth/img/32027.jpg") no-repeat center center fixed;
+    background: url(../img/32027.jpg) no-repeat center center fixed;
     background-position: 25% 75%;
     background-size: cover;
     height: 100vh;
