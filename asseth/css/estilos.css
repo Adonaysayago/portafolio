@@ -379,6 +379,7 @@ section .title::after{
 .skills .skills-content .right span{
     font-weight: 500;
     font-size: 18px;
+    text-transform: uppercase;
 }
 
 .skills .skills-content .right .line{
@@ -410,11 +411,11 @@ section .title::after{
     width: 80%;
 }
 
-.skills .skills-content .right .php::before{
-    width: 50%;
+.skills .skills-content .right .React::before{
+    width: 60%;
 }
 
-.skills .skills-content .right .sql::before{
+.skills .skills-content .right .Visual-Studio::before{
     width: 80%;
 }
 
